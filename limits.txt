@@ -1,2 +1,1 @@
 msi:0
-msi sakib:0

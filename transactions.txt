@@ -1,2 +1,1 @@
 msi:Deposited $200000\nWithdrew $20000\n
-msi sakib:Deposited $100000\nWithdrew $10000\n
